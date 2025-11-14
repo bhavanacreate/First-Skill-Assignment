@@ -122,8 +122,8 @@ GET /api/movie/:id
 
 ⚙️ Setup Instructions
 🟦 1) Clone Repo
-git clone https://github.com/Surya-9177/FirstSkillAssignment.git
-cd FirstSkillAssignment
+git clone https://github.com/bhavanacreate/First-Skill-Assignment.git
+cd First-Skill-Assignment
 
 🟩 Backend Setup (Express)
 cd backend
@@ -197,10 +197,10 @@ https://first-skill-assignment.vercel.app/
 
 👨‍💻 Developer
 
-Surya Nagularapu
-GitHub: https://github.com/Surya-9177
+Bhavana Kodumuri
+GitHub: https://github.com/bhavanacreate
 
-Project: FirstSkillAssignment
+Project: First-Skill-Assignment
 
 🎉 Thanks for checking out this project!
 
